@@ -58,7 +58,7 @@ In this section, we will take a look at kube-controller-manager.
   
 - You can also see the running process and affective options by listing the process on master node and searching for kube-controller-manager.
   ```
-  $ ps -aux |grep kube-controller-manager
+  $ ps -aux | grep kube-controller-manager
   ```
   ![kube-controller-manager3](../../images/kube-controller-manager3.PNG)
   
